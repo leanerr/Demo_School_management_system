@@ -1,0 +1,11 @@
+C:\Users\negin\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\DataGrid\bin\Debug\DataGrid.exe.config
+C:\Users\negin\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\DataGrid\bin\Debug\DataGrid.exe
+C:\Users\negin\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\DataGrid\bin\Debug\DataGrid.pdb
+C:\Users\negin\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\DataGrid\obj\Debug\DataGrid.Form1.resources
+C:\Users\negin\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\DataGrid\obj\Debug\DataGrid.Properties.Resources.resources
+C:\Users\negin\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\DataGrid\obj\Debug\DataGrid.csproj.GenerateResource.Cache
+C:\Users\negin\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\DataGrid\obj\Debug\DataGrid.exe
+C:\Users\negin\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\DataGrid\obj\Debug\DataGrid.pdb
+C:\Users\negin\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\DataGrid\obj\Debug\DataGrid.csprojResolveAssemblyReference.cache
+C:\Users\negin\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\DataGrid\obj\Debug\DataGrid.frmManageStudent.resources
+C:\Users\negin\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\DataGrid\obj\Debug\DataGrid.Main.resources
