@@ -1,0 +1,9 @@
+CREATE TABLE [dbo].[Students] (
+    [StudentID]   INT           NOT NULL,
+    [StudentName] NVARCHAR (50) NULL,
+    [FatherName]  NVARCHAR (50) NULL,
+    [Class]       NVARCHAR (50) NULL,
+    [Section]     NCHAR (10)    NULL,
+    PRIMARY KEY CLUSTERED ([StudentID] ASC)
+);
+

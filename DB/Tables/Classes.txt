@@ -1,0 +1,6 @@
+CREATE TABLE [dbo].[Classes] (
+    [Class]   NVARCHAR (50) NOT NULL,
+    [ClassID] NVARCHAR (50) NULL,
+    PRIMARY KEY CLUSTERED ([Class] ASC)
+);
+

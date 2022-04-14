@@ -1,0 +1,25 @@
+CREATE PROCEDURE [Form1]
+ (	@SID int = 0,
+	@StudentName nvarchar(50),
+	@FatherName nvarchar(50),
+	@Class nvarchar(50),
+	@Section  nvarchar(50)
+	/*@AdmDate  nvarchar(50)*/
+	)
+as
+	begin
+	insert into Students
+	values (@SID , @StudentName , @FatherName , @Class , @Section );
+
+	end
+
+
+
+
+
+
+CREATE PROCEDURE  [dbo].[SelectStudent] 
+AS
+BEGIN
+SELECT * from [dbo].[Students]
+END
